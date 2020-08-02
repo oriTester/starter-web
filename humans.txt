@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name> Ori Uliel <twitter>
+    Oti Uliel
+	Ulielori@gmail.com
+	
 
 # THANKS
 
