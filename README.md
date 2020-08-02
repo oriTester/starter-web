@@ -8,8 +8,10 @@ Sample website with plenty of files for demos
 
 ##GIT & GITHUB TRAINING
 
-## GIT Comparisons
 Adding GIT Comparisons Lecture
 
 ## GITHUB Content
 comparison with rapo
+
+## contribution
+fork the repository
