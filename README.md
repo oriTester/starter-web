@@ -6,4 +6,10 @@ This repository is for showing how Git and GitHub work
 this is GIT Project, which we are using as Sample project
 Sample website with plenty of files for demos
 
-##GIT & GITHUB
+##GIT & GITHUB TRAINING
+
+## GIT Comparisons
+Adding GIT Comparisons Lecture
+
+## GITHUB Content
+comparison with rapo
