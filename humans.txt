@@ -5,6 +5,8 @@
 
     Oti Uliel
 	Ulielori@gmail.com
+	Junior DevOps 
+	
 	
 
 # THANKS
@@ -15,3 +17,4 @@
 
     HTML5, CSS3, Angular
     jQuery, Modernizr, AJAX
+	Docker, Java programing
