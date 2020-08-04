@@ -1,7 +1,9 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
-	HI I am modifing the file before rebase
+
+HI Going to insert conflicts in my featured brach 
+
 # TEAM
 
     Oti Uliel
