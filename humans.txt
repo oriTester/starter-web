@@ -9,6 +9,7 @@
 	Junior DevOps 
 	level 1
 	IT
+	making changes in Team
 	
 
 # THANKS
