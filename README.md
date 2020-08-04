@@ -15,3 +15,4 @@ comparison with rapo
 
 ## contribution
 fork the repository
+adding new lectures
