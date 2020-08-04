@@ -7,8 +7,7 @@ this is GIT Project, which we are using as Sample project
 Sample website with plenty of files for demos
 
 ##GIT & GITHUB TRAINING
-trying to make conflict
-we are doing a lot of job
+
 Adding GIT Comparisons Lecture
 
 ## GITHUB Content
