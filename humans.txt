@@ -7,7 +7,8 @@
     Oti Uliel
 	Ulielori@gmail.com
 	Junior DevOps 
-	
+	level 1
+	IT
 	
 
 # THANKS
